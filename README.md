@@ -31,3 +31,19 @@ Permite adicionar, marcar como concluída, remover e filtrar tarefas (todas, con
 ### 1️⃣ Clonar o repositório
 ```bash
 git clone https://github.com/YagoNunes/lista-de-tarefas-react.git
+
+
+2️⃣ Entrar na pasta do projeto
+
+cd lista-de-tarefas-react
+
+3️⃣ Instalar as dependências
+npm install
+
+4️⃣ Rodar o projeto
+npm run dev
+
+
+👨‍💻 Autor
+José Yago Nunes Oliveira
+📧 Contato: [yagonunesordep@gmail.com]
